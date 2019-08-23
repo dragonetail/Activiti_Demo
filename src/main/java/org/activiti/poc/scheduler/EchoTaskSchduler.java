@@ -1,4 +1,4 @@
-package org.hazelcast.poc.scheduler;
+package org.activiti.poc.scheduler;
 
 
 import com.hazelcast.scheduledexecutor.IScheduledExecutorService;

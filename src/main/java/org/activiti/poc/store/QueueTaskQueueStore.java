@@ -1,7 +1,7 @@
-package org.hazelcast.poc.store;
+package org.activiti.poc.store;
 
-import org.hazelcast.poc.model.QueuePocTask;
-import org.hazelcast.poc.repository.QueueTaskRepository;
+import org.activiti.poc.model.QueuePocTask;
+import org.activiti.poc.repository.QueueTaskRepository;
 import com.hazelcast.core.QueueStore;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

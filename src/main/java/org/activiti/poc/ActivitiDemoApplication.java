@@ -11,12 +11,12 @@ import org.springframework.cache.annotation.EnableCaching;
 @Slf4j
 @SpringBootApplication
 @EnableCaching
-public class HazelcastDemoApplication implements CommandLineRunner {
+public class ActivitiDemoApplication implements CommandLineRunner {
 	@Autowired
 	private CacheManager cacheManager;
 
 	public static void main(String[] args) {
-		SpringApplication.run(HazelcastDemoApplication.class, args);
+		SpringApplication.run(ActivitiDemoApplication.class, args);
 	}
 
 	@Override

@@ -1,10 +1,10 @@
-package org.hazelcast.poc.config;
+package org.activiti.poc.config;
 
-import org.hazelcast.poc.model.DeviceStatus;
-import org.hazelcast.poc.model.Employee;
-import org.hazelcast.poc.model.QueuePocTask;
-import org.hazelcast.poc.store.DeviceStatusMapStore;
-import org.hazelcast.poc.store.QueueTaskQueueStore;
+import org.activiti.poc.model.DeviceStatus;
+import org.activiti.poc.model.Employee;
+import org.activiti.poc.model.QueuePocTask;
+import org.activiti.poc.store.DeviceStatusMapStore;
+import org.activiti.poc.store.QueueTaskQueueStore;
 import com.hazelcast.config.*;
 import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.core.IAtomicLong;

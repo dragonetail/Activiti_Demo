@@ -1,6 +1,6 @@
-package org.hazelcast.poc.controller;
+package org.activiti.poc.controller;
 
-import org.hazelcast.poc.model.DeviceStatus;
+import org.activiti.poc.model.DeviceStatus;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

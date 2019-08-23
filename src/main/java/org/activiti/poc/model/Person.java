@@ -1,4 +1,4 @@
-package org.hazelcast.poc.model;
+package org.activiti.poc.model;
 
 import lombok.Data;
 import org.hibernate.annotations.Cache;

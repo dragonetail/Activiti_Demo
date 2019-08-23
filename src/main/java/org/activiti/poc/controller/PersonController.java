@@ -1,7 +1,7 @@
-package org.hazelcast.poc.controller;
+package org.activiti.poc.controller;
 
-import org.hazelcast.poc.model.Person;
-import org.hazelcast.poc.repository.PersonRepository;
+import org.activiti.poc.model.Person;
+import org.activiti.poc.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.CacheManager;
 import org.springframework.web.bind.annotation.GetMapping;

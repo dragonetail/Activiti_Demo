@@ -1,4 +1,4 @@
-package org.hazelcast.poc.common;
+package org.activiti.poc.common;
 
 import com.hazelcast.config.InterfacesConfig;
 import com.hazelcast.config.NetworkConfig;

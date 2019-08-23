@@ -1,6 +1,6 @@
-package org.hazelcast.poc.repository;
+package org.activiti.poc.repository;
 
-import org.hazelcast.poc.model.Person;
+import org.activiti.poc.model.Person;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

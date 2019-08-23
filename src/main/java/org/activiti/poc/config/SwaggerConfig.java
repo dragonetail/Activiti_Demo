@@ -1,4 +1,4 @@
-package org.hazelcast.poc.config;
+package org.activiti.poc.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

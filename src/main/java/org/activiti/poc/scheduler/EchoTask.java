@@ -1,4 +1,4 @@
-package org.hazelcast.poc.scheduler;
+package org.activiti.poc.scheduler;
 
 import com.hazelcast.core.IAtomicLong;
 import lombok.extern.slf4j.Slf4j;

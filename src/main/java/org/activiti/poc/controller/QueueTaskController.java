@@ -1,6 +1,6 @@
-package org.hazelcast.poc.controller;
+package org.activiti.poc.controller;
 
-import org.hazelcast.poc.model.QueuePocTask;
+import org.activiti.poc.model.QueuePocTask;
 import com.hazelcast.core.IQueue;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

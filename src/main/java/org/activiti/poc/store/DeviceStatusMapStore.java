@@ -1,7 +1,7 @@
-package org.hazelcast.poc.store;
+package org.activiti.poc.store;
 
-import org.hazelcast.poc.model.DeviceStatus;
-import org.hazelcast.poc.repository.DeviceStatusRepository;
+import org.activiti.poc.model.DeviceStatus;
+import org.activiti.poc.repository.DeviceStatusRepository;
 import com.hazelcast.core.MapStoreAdapter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

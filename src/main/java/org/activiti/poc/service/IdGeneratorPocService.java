@@ -1,4 +1,4 @@
-package org.hazelcast.poc.service;
+package org.activiti.poc.service;
 
 
 import com.hazelcast.flakeidgen.FlakeIdGenerator;

@@ -1,5 +1,5 @@
-# Hazelcast-Demo
-Hazelcast缓存及同Spring boot生态结合的预研Demo。
+# Activiti-Demo
+Activiti工作流及同Spring boot生态结合的预研Demo。
 
 # 参考
 https://medium.com/@igorkosandyak/spring-boot-with-hazelcast-b04d13927745

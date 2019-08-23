@@ -1,8 +1,8 @@
-package org.hazelcast.poc.service;
+package org.activiti.poc.service;
 
 
-import org.hazelcast.poc.model.Employee;
-import org.hazelcast.poc.repository.EmployeeRepository;
+import org.activiti.poc.model.Employee;
+import org.activiti.poc.repository.EmployeeRepository;
 import com.hazelcast.core.IMap;
 import com.hazelcast.query.Predicate;
 import com.hazelcast.query.Predicates;

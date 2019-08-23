@@ -1,10 +1,10 @@
-package org.hazelcast.poc.controller;
+package org.activiti.poc.controller;
 
 
-import org.hazelcast.poc.model.Employee;
-import org.hazelcast.poc.model.Person;
-import org.hazelcast.poc.repository.PersonRepository;
-import org.hazelcast.poc.service.EmployeeService;
+import org.activiti.poc.service.EmployeeService;
+import org.activiti.poc.model.Employee;
+import org.activiti.poc.model.Person;
+import org.activiti.poc.repository.PersonRepository;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
