@@ -1,4 +1,4 @@
-package org.hazelcast.poc;
+package org.activiti.poc;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
